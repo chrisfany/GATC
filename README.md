@@ -12,3 +12,6 @@
 1. git checkout unit-test
 2. run `./testrpc.sh` in terminal
 3. run `truffle test` in another terminal to execute tests.
+
+## Address
+https://etherscan.io/token/0xe3a692a0438c53497b1d87c8723f9f8a2525a418
